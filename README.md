@@ -1,6 +1,6 @@
-# Mustang Culture — Portfolio Site
+# Mustag Culture — Portfolio Site
 
-A single-page portfolio for Adeolu / Mustang Culture: custom tailoring, ready-to-wear, and fashion consultation.
+A single-page portfolio for Adeolu / Mustag Culture: custom tailoring, ready-to-wear, and fashion consultation.
 
 ## Files
 - `index.html` — page content
